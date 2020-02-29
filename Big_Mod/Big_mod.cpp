@@ -26,5 +26,5 @@ long long bigmod(long long b,long long p,long long m){
 
 int main(){
 	long long b,p,m; cin >> b >> p >> m;
-	cout << bigmod(b,p.m) << endl;
+	cout << bigmod(b,p,m) << endl;
 }
